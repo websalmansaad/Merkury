@@ -1,0 +1,502 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* nav responsive start */
+    .navbar-brand img {
+        height: 50px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .nav_button {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        padding-left: 0;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 30px;
+    }
+
+    .hero_content h4 {
+        font-size: 20px;
+    }
+
+    .feature_content img {
+        margin-top: 70px;
+    }
+
+    /* hero responsive end */
+    /* feature responsive start */
+    #feature {
+        padding-top: 105px;
+    }
+
+    /* feature responsive end */
+    /* browser responsive start */
+    .browser_content_1 {
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 55px;
+    }
+
+    .browser_content_1 h4 {
+        font-size: 24px;
+    }
+
+    .browser_content_1 p {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li i {
+        font-size: 14px;
+    }
+
+    /* browser responsive end */
+    /* drag responsive start */
+    .drag_content_2 {
+        text-align: center;
+    }
+
+    .drag_content_2 p {
+        font-size: 14px;
+    }
+
+    .drag_content_2 h4 {
+        font-size: 35px;
+    }
+
+    /* drag responsive end */
+    /* psd responsive start */
+    .psd_content h4 {
+        font-size: 35px;
+    }
+
+    .psd_content p {
+        font-size: 14px;
+    }
+
+    /* psd responsive end */
+    /* price responsive start */
+    .price_card {
+        margin-bottom: 25px;
+    }
+
+    .price_card ul li {
+        font-size: 14px;
+    }
+
+    .price_card ul li i.icon_blue {
+        font-size: 14px;
+    }
+
+    .price_card ul li i.icon_red {
+        font-size: 14px;
+    }
+
+    .price_content p {
+        font-size: 14px;
+    }
+
+    .price_line_1 {
+        display: none;
+    }
+
+    .price_line_2 {
+        display: none;
+    }
+
+    /* price responsive end */
+    /* footer responsive start */
+    .footer_menu ul {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    #footer {
+        text-align: center;
+    }
+
+    .footer_icon ul {
+        justify-content: center;
+    }
+
+    .footer_icon {
+        margin-top: 20px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* nav responsive start */
+    .navbar-brand img {
+        height: 50px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .nav_button {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        padding-left: 0;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 30px;
+    }
+
+    .hero_content h4 {
+        font-size: 20px;
+    }
+
+    .feature_content img {
+        margin-top: 70px;
+    }
+
+    /* hero responsive end */
+    /* feature responsive start */
+    #feature {
+        padding-top: 105px;
+    }
+
+    .feature_content {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    /* feature responsive end */
+    /* browser responsive start */
+    .browser_content_1 {
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 55px;
+    }
+
+    .browser_content_1 h4 {
+        font-size: 24px;
+    }
+
+    .browser_content_1 p {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li i {
+        font-size: 14px;
+    }
+
+    /* browser responsive end */
+    /* drag responsive start */
+    .drag_content_2 {
+        text-align: center;
+    }
+
+    .drag_content_2 p {
+        font-size: 14px;
+    }
+
+    .drag_content_2 h4 {
+        font-size: 35px;
+    }
+
+    /* drag responsive end */
+    /* psd responsive start */
+    .psd_content h4 {
+        font-size: 35px;
+    }
+
+    .psd_content p {
+        font-size: 14px;
+    }
+
+    /* psd responsive end */
+    /* price responsive start */
+    .price_card {
+        margin-bottom: 25px;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+    .price_card ul li {
+        font-size: 14px;
+    }
+
+    .price_card ul li i.icon_blue {
+        font-size: 14px;
+    }
+
+    .price_card ul li i.icon_red {
+        font-size: 14px;
+    }
+
+    .price_content p {
+        font-size: 14px;
+    }
+
+    .price_line_1 {
+        display: none;
+    }
+
+    .price_line_2 {
+        display: none;
+    }
+
+    /* price responsive end */
+    /* footer responsive start */
+    .footer_menu ul {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    #footer {
+        text-align: center;
+    }
+
+    .footer_icon ul {
+        justify-content: center;
+    }
+
+    .footer_icon {
+        margin-top: 20px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* nav responsive start */
+    .navbar-brand img {
+        height: 50px;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    .nav_button {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        padding-left: 0;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 40px;
+    }
+
+    .hero_content h4 {
+        font-size: 25px;
+    }
+
+    /* hero responsive end */
+    /* feature responsive start */
+    .feature_content p {
+        font-size: 14px;
+    }
+
+    .feature_content h4 {
+        font-size: 18px;
+    }
+
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 218px;
+    }
+
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(3)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 226px;
+    }
+
+    /* feature responsive end */
+    /* browser responsive start */
+    .browser_content_1 h4 {
+        margin-top: 30px;
+    }
+
+    .browser_content_1 p {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li i {
+        font-size: 14px;
+    }
+
+    .browser_content_1 ul li {
+        font-size: 14px;
+    }
+
+    .browser_content_1 {
+        margin-left: 50px;
+    }
+
+    .browser_content_2 {
+        padding-top: 80px;
+    }
+
+    /* browser responsive end */
+    /* drag responsive start */
+    .drag_content_1 {
+        padding-top: 80px;
+    }
+
+    .drag_content_2 h4 {
+        font-size: 30px;
+    }
+
+    .drag_content_2 p {
+        font-size: 14px;
+    }
+
+    /* drag responsive end */
+    /* psd responsive start */
+    /* psd responsive end */
+    /* price responsive start */
+    .price_card ul li i.icon_blue {
+        font-size: 16px;
+        font-size: 14px;
+    }
+
+    .price_card {
+        padding: 40px 15px;
+        padding: 40px 8px;
+    }
+
+    .price_card ul li i.icon_red {
+        font-size: 14px;
+    }
+
+    .price_card ul li i.icon_blue {
+        font-size: 14px;
+    }
+
+    .price_card ul li {
+        font-size: 14px;
+    }
+
+    .price_content br {
+        display: none;
+    }
+
+    /* price responsive end */
+    /* footer responsive start */
+    .footer_menu {
+        margin-right: 50px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* nav responsive start */
+
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 50px;
+    }
+
+    .hero_content h4 {
+        font-size: 30px;
+    }
+
+    .hero_content a {
+        font-size: 16px;
+    }
+
+    /* hero responsive end */
+    /* feature responsive start */
+    .hero_content h1 {
+        font-size: 50px;
+    }
+
+    .hero_content h4 {
+        font-size: 30px;
+    }
+
+    .hero_content a {
+        font-size: 16px;
+    }
+
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 217px;
+    }
+
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(3)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 225px;
+    }
+
+    /* feature responsive end */
+    /* browser responsive start */
+    .browser_content_1 h4 {
+        margin-top: -20px;
+    }
+
+    /* browser responsive end */
+    /* drag responsive start */
+    .drag_content_2 h4 {
+        margin-top: 25px;
+    }
+
+    /* drag responsive end */
+    /* psd responsive start */
+    /* psd responsive end */
+    /* price responsive start */
+    /* price responsive end */
+    /* footer responsive start */
+    /* footer responsive end */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* nav responsive start */
+    /* nav responsive end */
+    /* hero responsive start */
+    /* hero responsive end */
+    /* feature responsive start */
+    /* feature responsive end */
+    /* browser responsive start */
+    /* browser responsive end */
+    /* drag responsive start */
+    /* drag responsive end */
+    /* psd responsive start */
+    /* psd responsive end */
+    /* price responsive start */
+    /* price responsive end */
+    /* footer responsive start */
+    /* footer responsive end */
+}
