@@ -483,11 +483,20 @@
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+
     /* nav responsive start */
     /* nav responsive end */
     /* hero responsive start */
     /* hero responsive end */
     /* feature responsive start */
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 217px;
+    }
+
+    #feature>div:nth-child(1)>div:nth-child(1)>div:nth-child(3)>div:nth-child(1)>img:nth-child(1) {
+        margin-top: 225px;
+    }
+
     /* feature responsive end */
     /* browser responsive start */
     /* browser responsive end */
